@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "titel": "The beginning",
+    "title": "The beginning",
     "text": "Once upon a time in a quirky little town called Veggieville, there lived a unique character named Tim Fagerdal. Tim was no ordinary resident of Veggieville; he was, in fact, a human fruit.Born from the enchanted orchards on the outskirts of town, Tim was a remarkable blend of human and fruit, with skin the color of a ripe peach and hair as green as Granny Smith apples. He had always been a source of wonder and curiosity for the townsfolk.",
     "options": [
       {
@@ -12,7 +12,7 @@
   },
   {
     "id": 1,
-    "titel": "The beginning",
+    "title": "The beginning",
     "text": "But what set Tim apart from his fellow fruit-human hybrids was his insatiable passion for pasta. From a young age, he had been enchanted by the art of Italian cooking. He would often sneak into the local library to read cookbooks and watch pasta-making videos online, much to the amusement of the librarians who thought it was quite comical to see a fruit-human hybrid so engrossed in culinary pursuits.",
     "options": [
       {
@@ -31,7 +31,7 @@
   },
   {
     "id": 2,
-    "titel": "Making pasta",
+    "title": "Making pasta",
     "text": "As Tim grew older, his love for pasta only deepened. He decided to turn his passion into a profession. He opened a little pasta shop in Veggieville called 'Tim's Pasta Paradise.' His pasta, a fusion of flavors. He experimented with pasta shapes and flavors that matched his fruit-human heritage, creating dishes like strawberry-stuffed ravioli and watermelon-infused linguine. But a lack of customers is worrying Tim. He needs something special to draw in a costumers",
     "options": [
       {
@@ -46,7 +46,7 @@
   },
   {
     "id": 3,
-    "titel": "Trying some thing else",
+    "title": "Trying some thing else",
     "text": "As Tim grew older, the interest of food dwindled, but in the back of is mind there was still a want to pursue making food",
     "options": [
       {
@@ -65,7 +65,7 @@
   },
   {
     "id": 4,
-    "titel": "The spectacle",
+    "title": "The spectacle",
     "text": "There is many ways one can make a spectacle, Tim could only think of two. The first is using his uncles 'pure flour' from his 'Laboratory', and the other is Walter White",
     "options": [
       {
@@ -80,7 +80,7 @@
   },
   {
     "id": 5,
-    "titel": "The ad",
+    "title": "The ad",
     "text": "Tim has no experience in marketing, making it on his own perhaps is not the best idea. Tim does have friends that have some experience in a certain type of marketing, but they often takes it to far. Maybe hiring a marketer is the best idea",
     "options": [
       {
@@ -99,7 +99,7 @@
   },
   {
     "id": 6,
-    "titel": "Making pasta",
+    "title": "Making pasta",
     "text": "As Tim grew older, his love for pasta only deepened. He decided to turn his passion into a profession. He opened a little pasta shop in Veggieville called 'Tim's Pasta Paradise.' His pasta, a fusion of flavors. He experimented with pasta shapes and flavors that matched his fruit-human heritage, creating dishes like strawberry-stuffed ravioli and watermelon-infused linguine. But a lack of customers is worrying Tim. He needs something special to draw in a costumers",
     "options": [
       {
@@ -114,7 +114,7 @@
   },
   {
     "id": 7,
-    "titel": "Experiment?",
+    "title": "Experiment?",
     "text": "Tim asked his uncle to use his 'Laboratory', the unnamed uncle, that deals with 'pure flour', said yes. When experimenting with meat and some unknown chemicals, a weird creature started to crawl out of the microwave. What is its name?",
     "options": [
       {
@@ -125,9 +125,8 @@
   },
   {
     "id": 8,
-    "titel": "Experiment?",
+    "title": "Experiment?",
     "text": "The meat monsters name is:",
-    "meatName": true,
     "options": [
       {
         "text": "Next",
@@ -137,7 +136,7 @@
   },
   {
     "id": 9,
-    "titel": "The epic adventure",
+    "title": "The epic adventure",
     "text": "Tim and his meat friend began on a epic adventure that would have been written in the history books! But He was eaten by the meat monster :[",
     "options": [
       {
@@ -148,7 +147,7 @@
   },
   {
     "id": 10,
-    "titel": "School",
+    "title": "School",
     "text": "Tim started to study at Johnson and Wales University, but they did not talk about pasta in the furst minute so Tim dropout",
     "options": [
       {
@@ -159,7 +158,7 @@
   },
   {
     "id": 11,
-    "titel": "The spectacle",
+    "title": "The spectacle",
     "text": "",
     "options": [
       {
@@ -174,7 +173,7 @@
   },
   {
     "id": 12,
-    "titel": "The spectacle",
+    "title": "The spectacle",
     "text": "With the knowledge from his aunt, Tim drew a big cirkel on the ground, adding on line, two lines, three, four, five lines. Forming a pentagram. Every where the lines made contact the circle he added a circle. Tim sat in the middle of the big circle and started to hum.",
     "options": [
       {
@@ -185,7 +184,7 @@
   },
   {
     "id": 13,
-    "titel": "The spectacle",
+    "title": "The spectacle",
     "text": "'Walter', Tim said once. 'I need your help.' From the brushes 20 meters away from Tim, a man started to walk towards him. When the man was 2 meters from Tim he said with a deep growling voice 'What do you need'",
     "options": [
       {
@@ -200,7 +199,7 @@
   },
   {
     "id": 14,
-    "titel": "Walter Preach",
+    "title": "Walter Preach",
     "text": "Walter started to preach 'My dear congregation, life has a way of taking us down unexpected paths, much like my journey from a simple chemistry teacher to the empire I built. Tim's Pasta Paradise, too, has a story of transformation, from humble beginnings to culinary excellence.' Walter continued preaching 'ust as I had to learn the intricacies of the drug trade, Tim and his team have mastered the art of pasta-making, crafting dishes that delight the senses and transport you to a world of flavors.'",
     "options": [
       {
@@ -211,7 +210,7 @@
   },
   {
     "id": 15,
-    "titel": "Walter Preach",
+    "title": "Walter Preach",
     "text": "Meanwhile, when Walter was preaching Tim was in his kitchen making dishes. But he didn't see a increase in customers, in mather of fact the customers went away. Tim's Pasta Paradise closed down shortly after",
     "options": [
       {
@@ -222,7 +221,7 @@
   },
   {
     "id": 16,
-    "titel": "The audience",
+    "title": "The audience",
     "text": "Walter White, summoned an audience by harnessing his charisma, intelligence, and powerful presence. He crafted a compelling message that resonates with the audience's desires or fears. Then he employed dramatic storytelling to create a sense of urgency or excitement.",
     "options": [
       {
@@ -233,7 +232,7 @@
   },
   {
     "id": 17,
-    "titel": "The audience",
+    "title": "The audience",
     "text": "Nearly all of the towns people was now surrounding Tim's pasta paradise, wondering why this man hade so much passion for pasta. Every day Walter White talked about pasta, and every day more and more people would join. It was like a cult. But people were buying Tim's pasta, so business was booming",
     "options": [
       {
@@ -244,7 +243,7 @@
   },
   {
     "id": 18,
-    "titel": "The audience",
+    "title": "The audience",
     "text": "But one day when the revolt happened, all that Tim Fagerdal built went to dust. And Walter White created tyrannical government, but we should not talk about that",
     "options": [
       {
@@ -255,7 +254,7 @@
   },
   {
     "id": 19,
-    "titel": "Give 'Pure flower'",
+    "title": "Give 'Pure flower'",
     "text": "Every day between 06:00, and 09:00 am, Tim would oppen his little stal. He would give out small sample of the 'Pure flower' to the towns people, promising them that his pasta is made with 'Pure flower'.",
     "options": [
       {
@@ -266,7 +265,7 @@
   },
   {
     "id": 20,
-    "titel": "Give 'Pure flower'",
+    "title": "Give 'Pure flower'",
     "text": "This was a brilliant idea, he hade a 100 procent returning costumer base. It was increasing slowly but when the people was hooked on Tim's pasta, they would never get away from it.",
     "options": [
       {
@@ -277,7 +276,7 @@
   },
   {
     "id": 21,
-    "titel": "Hooked on Tim's pasta",
+    "title": "Hooked on Tim's pasta",
     "text": "Months went by, the costumer was just ordering larger and larger meals, to the point of it being excessive. But the amount of money Tim was making was enough that he could open multible Tim's pasta paradise, around the country.",
     "options": [
       {
@@ -288,7 +287,7 @@
   },
   {
     "id": 22,
-    "titel": "FBI",
+    "title": "FBI",
     "text": "one day the FBI was right in front Tim's hus, trying to arrest him for 'having drogs in Tim's pasta paradise's pasta', it was then he knew it was over. What did Tim do next?",
     "options": [
       {
@@ -307,7 +306,7 @@
   },
   {
     "id": 23,
-    "titel": "Hooked on Tim's pasta",
+    "title": "Hooked on Tim's pasta",
     "text": "Tim Fagerdal gave up, opening the so the FBI could search his house. The FBI agent found all the secrets about the 'Pure flower', Tim where arrest. Later Tim needed to serve a 100 year sentens in jail",
     "options": [
       {
@@ -318,7 +317,7 @@
   },
   {
     "id": 24,
-    "titel": "Hooked on Tim's pasta",
+    "title": "Hooked on Tim's pasta",
     "text": "In trying to not get arrested Tim grabbed a his gun. When ordered to drop the gun, he refused, and threatened to use the firearm. On that day Tim did not walk away.",
     "options": [
       {
@@ -329,7 +328,7 @@
   },
   {
     "id": 25,
-    "titel": "Hooked on Tim's pasta",
+    "title": "Hooked on Tim's pasta",
     "text": "Tim ran through his house to the back door, but he did not notice that the house was surrounded by the FBI and the polis. Tim where arrest, later he needed to serve a 100 year sentens in jail",
     "options": [
       {
@@ -340,7 +339,7 @@
   },
   {
     "id": 26,
-    "titel": "Throw the 'Pure flower'",
+    "title": "Throw the 'Pure flower'",
     "text": "Tim throw the 'Pure flower' on the people walking by his shop. He was later arrested.",
     "options": [
       {
