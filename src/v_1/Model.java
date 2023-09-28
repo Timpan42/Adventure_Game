@@ -1,9 +1,9 @@
+package v_1;
 
 import com.google.gson.*;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
 
 /*
  How to use Gson
@@ -98,25 +98,4 @@ public class Model {
         setText(arrObj);
         setOptions(arrObj);
     }
-
-    public void printJson(){
-        System.out.println("Id: " + id);
-        System.out.println("Title: " + title);
-        System.out.println("Options: " + options);
-        System.out.println("Chose: " + chose);
-        System.out.println("Chose text: " + choseText);
-        System.out.println("Chose next id: " + choseNextId);
-
-    }
-
-/*    public static void main(String[] args) throws IOException {
-        Model m = new Model();
-        String testFile = "src/test.json";
-        String storyFile = "src/story.json";
-        m.setFile(testFile);
-        m.setJson();
-        m.printJson();
-
-
-    }*/
 }

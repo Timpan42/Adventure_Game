@@ -1,3 +1,5 @@
+package v_1;
+
 import com.google.gson.JsonArray;
 
 import java.util.Scanner;
@@ -16,8 +18,13 @@ public class Controller {
     }
 
     public void sendNextId(Model model, int nextId){
-        model.setChose(nextId);
-        model.setChoseNextId();
+        if (nextId < 0 || nextId > model.getOptions().size()){
+            System.out.println("Wrong");
+            model.setChoseNextId();
+        } else {
+            model.setChose(nextId);
+            model.setChoseNextId();
+        }
     }
 
     public void gamePlaying(Model model){
@@ -27,6 +34,7 @@ public class Controller {
         } else {
             model.setITO();
             System.out.println("Title: " + model.getTitle());
+            System.out.println("Text: " + model.getText());
 
             choses(model);
         }
