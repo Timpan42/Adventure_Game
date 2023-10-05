@@ -19,7 +19,7 @@ public class Model {
 
         ArrayList<Integer> nextIdList = sceneList.get(0).getNextId();
         int nextId = nextIdList.get(1);
-        System.out.println(nextId);
+        System.out.println(nextId + "" + "\n");
         for (int i = 0; i < sceneList.size(); i++) {
             if(nextId == sceneList.get(i).getId()){
                 int id = sceneList.get(i).getId();
@@ -32,18 +32,18 @@ public class Model {
 
             }
         }
-/*
+
         for (Scene value : sceneList) {
             int id = value.getId();
             String title = value.getTitle();
             String text = value.getText();
-            ArrayList<Integer> nextId = value.getNextId();
+            ArrayList<Integer> nId = value.getNextId();
 
             System.out.println(id + "\n"
                     + title + "\n"
                     + text + "\n"
-                    + nextId + "\n");
-        }*/
+                    + nId + "\n");
+        }
 
     }
 }
